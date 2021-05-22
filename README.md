@@ -16,6 +16,8 @@ bdtime: 10
 ```
 # Installation 
 
-~Install Synapse
-~Place the dll file that you can download from release in your plugin directory
+~Install Synapse 
+
+~Place the dll file that you can download from release in your plugin directory  
+
 ~Restart/Start your server.
